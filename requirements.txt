@@ -1,6 +1,4 @@
-torch>=2.0.0
-torchvision
-torchaudio
+tensorflow
 pandas
 numpy
 matplotlib
@@ -8,7 +6,6 @@ seaborn
 scikit-learn
 opencv-python
 albumentations
-timm
 tqdm
 pydicom
 kaggle
