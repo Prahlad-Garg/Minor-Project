@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data directories (do not commit datasets)
+data/raw/
+data/processed/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Virtual environments
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyTorch/Trained models
+*.pt
+*.pth
+models/
+runs/
+
+# Logs
+*.log
+logs/
